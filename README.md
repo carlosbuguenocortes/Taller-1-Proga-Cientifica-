@@ -114,7 +114,7 @@ Esto permite identificar artículos más relevantes dentro de la red.
 
 ## Requisitos
 
-- Python 3 instalado
+- Python 3.14 instalado
 
 Verificar instalación:
 
